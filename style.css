@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* font-family: "Inter"; */
+}
+.section1{
+    display: flex;
+}
+.container{
+    background-color: #000;
+}
+#frontCard{
+    /* margin-right: 1px; */
+}
+p{
+    color:white;
+}
