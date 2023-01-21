@@ -3,7 +3,7 @@
 ## This project is made using two technologies only 
 # ![badge](https://img.shields.io/badge/HTML-CSS-yellowgreen)
 
-## [Live Project Link]()
+## [Live Project Link](https://elaborate-horse-7b5cb3.netlify.app/)
 
 ## Here are my learning from this project:-
 - Learned about positioning in great details.
